@@ -26,7 +26,7 @@ Este é um projeto de simulação de um caixa eletrônico simples escrito em Pyt
 
 2. **Execute o Script:**
     ```bash
-    python caixa_eletronico.py
+    python main.py
     ```
 
 3. **Siga as Instruções no Terminal:**
