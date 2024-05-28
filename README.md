@@ -21,7 +21,6 @@ Este é um projeto de simulação de um caixa eletrônico simples escrito em Pyt
 1. **Clone o Repositório:**
     ```bash
     git clone https://github.com/seu-usuario/caixa-eletronico.git
-    cd caixa-eletronico
     ```
 
 2. **Execute o Script:**
