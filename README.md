@@ -102,5 +102,13 @@ Um autômato é um modelo matemático para uma máquina abstrata que pode estar 
 
 3. **Função de Transição:**
     - As transições entre estados são implementadas pelo menu interativo, onde cada escolha do usuário (entrada) determina a próxima operação (estado).
+  
+### Integrantes
+
+- Felipe Massashi Cabral Rodrigues Hashimoto. RGM: 27217931
+- Rayssa Paiva Carvalho. RGM: 26122448
+- Humberto Eduardo Ribeiro da Silva. RGM: 26184672
+- Victor Emanuel Fernandes Queiroz. RGM: 26443601
+
 
 
